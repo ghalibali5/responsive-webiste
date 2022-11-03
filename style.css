@@ -8,3 +8,14 @@
     width: 100%;
     background-image: url("images/banner.png");
 }
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2% 6%;
+}
+
+nav img {
+    width: 150px;
+}
