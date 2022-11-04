@@ -54,6 +54,16 @@
     text-align: center;
 }
 
+h1 {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+p {
+    font-size: 14px;
+    font-weight: 300;
+}
+
 
 /* .hero-btn {
     background-color: #4CAF50;
