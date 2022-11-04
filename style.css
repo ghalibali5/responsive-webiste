@@ -47,6 +47,13 @@
     width: 90%;
 }
 
+.course {
+    width: 80%;
+    margin: auto;
+    padding-top: 60px;
+    text-align: center;
+}
+
 
 /* .hero-btn {
     background-color: #4CAF50;
