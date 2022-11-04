@@ -64,6 +64,22 @@ p {
     font-weight: 300;
 }
 
+.course-col {
+    flex-basis: 31%;
+    background-color: bisque;
+    border-radius: 1px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+.row {
+    justify-content: space-between;
+    display: flex;
+    margin-top: 5%;
+}
+
 
 /* .hero-btn {
     background-color: #4CAF50;
