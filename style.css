@@ -9,11 +9,6 @@
     background-image: url("images/banner.png");
 }
 
-<style>body {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
 .topnav {
     overflow: hidden;
     background-color: #333;
@@ -42,7 +37,7 @@
     float: right;
 }
 
-</style>
+
 /* nav {
     display: flex;
     align-items: center;
